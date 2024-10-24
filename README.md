@@ -18,7 +18,7 @@ Colors and Unicode Characters: Used colors to show if you are in check, also for
 ## The project is implemented using
 Object-Oriented Programming (OOP): Classes for piece movement, tiles, and board. Chose to implement it where each tile on the board can take attribute of being a piece. 
 
-Multithreading: Utilized for the cursor to make it sleep so that it can change its character to give it the effect of looking like it is moving. Also for board updates. 
+Multithreading: Utilized for the cursor to make it change shape so that it has the effect of looking like it is moving. Also implemented for the board so that there is a brief pause after each move, preventing potential timing issues in the board's operation
 
 ## Future Goals
 ~ Add an AI opponent for single-player mode.
