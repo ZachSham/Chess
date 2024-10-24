@@ -1,6 +1,6 @@
 # Chess
 C++ Chess Game
-This project is a console-based Chess game implemented in C++. It is designed to offer a full chess-playing experience, including movement rules, check, and checkmate. I created this as my final project in my object-oriented programming class at the end of my freshman year. 
+This project is a console-based Chess game implemented in C++. It is designed to offer a full chess-playing experience, including movement rules, check, and checkmate. This was my final project in my object-oriented programming class at the end of my freshman year. 
 
 ## Features
 Loading Screen: Either choose to start or exit.
